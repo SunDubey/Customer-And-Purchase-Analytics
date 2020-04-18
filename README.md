@@ -1,5 +1,4 @@
 # Customer And Purchase Analytics
-==============================
 
 ### Problem description: 
 You've been hired as a Data Scientist to solve one business usecase in FMCG company wherein you have been given fictitious dataset of Customers who buy products in retail store. The task is to segment the customers and find the purchase, brand choice and purchase quantity probabilities.
